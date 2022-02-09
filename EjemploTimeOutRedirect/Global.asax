@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="EjemploTimeOutRedirect.Global_asax" Language="C#" %>
